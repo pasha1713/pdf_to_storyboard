@@ -1,0 +1,80 @@
+{
+  "image": "temp_perspectiva_input.jpg",
+  "points": [
+    [
+      425,
+      526
+    ],
+    [
+      747,
+      528
+    ],
+    [
+      394,
+      869
+    ],
+    [
+      -31,
+      853
+    ]
+  ],
+  "rows": 8,
+  "cols": 7,
+  "green_dots": [
+    [
+      91,
+      750
+    ],
+    [
+      128,
+      725
+    ],
+    [
+      164,
+      700
+    ],
+    [
+      195,
+      676
+    ],
+    [
+      232,
+      655
+    ],
+    [
+      256,
+      632
+    ],
+    [
+      285,
+      614
+    ],
+    [
+      315,
+      591
+    ],
+    [
+      366,
+      554
+    ],
+    [
+      391,
+      542
+    ],
+    [
+      414,
+      524
+    ]
+  ],
+  "sensitivity": 31,
+  "dot_color_mode": "green",
+  "green_dot_radius": 8,
+  "blue_dot_radius": 16,
+  "selected_line_mode": null,
+  "selected_line_idx": 0,
+  "cell_width_m": 0.5,
+  "cell_length_m": 3.0,
+  "camera_height_m": 8.5,
+  "track_height_m": 1.1,
+  "show_projection": true
+}
